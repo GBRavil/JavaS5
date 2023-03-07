@@ -1,3 +1,5 @@
+// Реализовать задание и печать карты для волнового алгоритма
+
 import java.util.LinkedList;
 import java.util.Queue;
 
